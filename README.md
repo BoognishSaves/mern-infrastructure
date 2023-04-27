@@ -1,17 +1,17 @@
 # How To Use Template
 1) git clone https://github.com/BoognishSaves/mern-infrastructure.git < name-of-project >
 
-2) git remote remove origin
+2) git remote remove origin 
 
-3) shift + cmmd + P to create new repo
+3) shift + cmmd + P to create new repo or git add origin "Repo Link"
 
 4) touch .env and add to .gitignore
 
 5) add DATABASE_URL & SECRET to .env
 
-6) "npm run build" 
+6) "npm i" to install dependencies 
 
-7) "npm i" to install dependencies 
+7) "npm run build" 
 
 8) "nodemon server" to run server side / "npm start" to run REACT app
 
